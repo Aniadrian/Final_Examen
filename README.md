@@ -3,4 +3,4 @@
 Luciano Meneses 
 Ana Adrian
 Ivan Caceres
-### Asignatura: Ciencia de datos para la exonomia 
+### Asignatura: Ciencia de datos para la economia 
